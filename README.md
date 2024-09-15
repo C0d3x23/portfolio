@@ -1,5 +1,10 @@
 # Associate Reporting Analyst
 
+📍 **Philippines**  
+📧 **Email:** [ullyssis.patorito23@gmail.com](mailto:ullyssis.patorito23@gmail.com)  
+🔗 **LinkedIn:** [sajals](https://www.linkedin.com/in/me21/) 
+👨‍💻 **GitHub:** [C0d3x23](https://github.com/C0d3x23)
+
 #### Technical Skills: Python, SQL, R, Tableau, Google Looker, Big Query, MS Excel 
 
 ## Education
@@ -14,8 +19,8 @@
 - Liaised with stakeholders at all levels—from Team Leads, Managers to Project Directors—through consistent communication via meetings and emails, fostering alignment and transparency.
 - Developed interactive dashboards for some of my reports using Google Looker, enabling real-time data updates and providing 100% accessibility to critical reports for the Operations Team and reducing manual report generation boosting productivity to 25%.
 
-
-
+## Certifications 📜
+- **Coursera:** Google Data Analytics Specialization
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+1. Ann, M., Ruzzel, M., Delinia, J. R., Faye, E., Patorito, U. F., Prado, M. J., Regaspi, R. C., Magon, S. A., & Elnar, J. S. (2024). Integration of 5G Technology in IoT: Applications in the Philippine Industries. https://doi.org/10.1109/icetsis61505.2024.10459427
