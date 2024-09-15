@@ -1,5 +1,3 @@
-# ullyssisp.github.io
-
 # Associate Reporting Analyst
 
 #### Technical Skills: Python, SQL, R, Tableau, Google Looker, Big Query, MS Excel 
