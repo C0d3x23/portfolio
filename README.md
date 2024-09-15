@@ -19,7 +19,7 @@
 - Liaised with stakeholders at all levels—from Team Leads, Managers to Project Directors—through consistent communication via meetings and emails, fostering alignment and transparency.
 - Developed interactive dashboards for some of my reports using Google Looker, enabling real-time data updates and providing 100% accessibility to critical reports for the Operations Team and reducing manual report generation boosting productivity to 25%.
 
-## Certifications 📜
+## Certifications
 - **Coursera:** Google Data Analytics Specialization
 
 ## Publications
