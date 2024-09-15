@@ -2,7 +2,7 @@
 
 📍 **Philippines**  
 📧 **Email:** [ullyssis.patorito23@gmail.com](mailto:ullyssis.patorito23@gmail.com)  
-🔗 **LinkedIn:** [sajals](https://www.linkedin.com/in/me21/) 
+🔗 **LinkedIn:** [Ullyssis Patorito](https://www.linkedin.com/in/me21/) 
 👨‍💻 **GitHub:** [C0d3x23](https://github.com/C0d3x23)
 
 #### Technical Skills: Python, SQL, R, Tableau, Google Looker, Big Query, MS Excel 
