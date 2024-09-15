@@ -20,7 +20,7 @@
 - Developed interactive dashboards for some of my reports using Google Looker, enabling real-time data updates and providing 100% accessibility to critical reports for the Operations Team and reducing manual report generation boosting productivity to 25%.
 
 ## Certifications
-- **Coursera:** Google Data Analytics Specialization
+- **Coursera:** Google Data Analytics Specialization [Certificate Link](https://www.coursera.org/account/accomplishments/specialization/MPTLTMK6GBQ6)
 
 ## Publications
 1. Ann, M., Ruzzel, M., Delinia, J. R., Faye, E., Patorito, U. F., Prado, M. J., Regaspi, R. C., Magon, S. A., & Elnar, J. S. (2024). Integration of 5G Technology in IoT: Applications in the Philippine Industries. https://doi.org/10.1109/icetsis61505.2024.10459427
