@@ -8,10 +8,10 @@
 #### Technical Skills: Python, SQL, R, Tableau, Google Looker, Big Query, MS Excel 
 
 ## Education
-Master's Degree, Technology
+Master's Degree, Technology   
 Batangas State University (_2023 - Present_)								       		
 
-B.I.T	Instrumentation and Control Technology
+B.I.T	Instrumentation and Control Technology   
 Batangas State University (_2019_)	 			        		
 
 
