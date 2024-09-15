@@ -15,8 +15,11 @@
 ## Work Experience
 **Associate Reporting Analyst @ Teletech Customer Care Management Philippines (_March 2022 - Present_)**
 - Supporting a project with 1500+ Associates and Team Leads delivering Key Performance Indicators (KPIs) and collaborating with the proper workforce to resolve 100+ monthly average metric and P4P payout disputes ensuring data integrity and accuracy.
+  
 - Extracting, transforming, and processing datasets (10,000 to 1,000,000+ rows) from AWS - Amazon Connect, HOP and other data sources within the organization using Excel Power Query to automate some reports reducing manual report generation time by 40%.
+  
 - Liaised with stakeholders at all levels—from Team Leads, Managers to Project Directors—through consistent communication via meetings and emails, fostering alignment and transparency.
+  
 - Developed interactive dashboards for some of my reports using Google Looker, enabling real-time data updates and providing 100% accessibility to critical reports for the Operations Team and reducing manual report generation boosting productivity to 25%.
 
 ## Certifications
